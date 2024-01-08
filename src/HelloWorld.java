@@ -5,5 +5,6 @@ public class HelloWorld {
         int b =5;
         int result = a+b;
         System.out.println(result);
+        System.out.println("aaa");
     }
 }
