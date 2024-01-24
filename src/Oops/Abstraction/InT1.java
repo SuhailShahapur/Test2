@@ -12,6 +12,7 @@ interface InT1
 
 
 }
+
 class T2 implements InT1 {
 
     // here methods should be public or else it will throw an error
