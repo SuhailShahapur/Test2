@@ -6,9 +6,9 @@ public class ParametirizedCon {
     String name;
     int age;
 
-    ParametirizedCon(String name, int age){
-        this.name = name;
-        this.age = age;
+    ParametirizedCon(String a, int b){
+        this.name = a;
+        this.age = b;
     }
 
     public static void main(String[] args) {
